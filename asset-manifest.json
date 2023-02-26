@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bit08react/static/css/main.756af292.css",
+    "main.js": "/bit08react/static/js/main.d714f550.js",
+    "index.html": "/bit08react/index.html",
+    "main.756af292.css.map": "/bit08react/static/css/main.756af292.css.map",
+    "main.d714f550.js.map": "/bit08react/static/js/main.d714f550.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.d714f550.js"
+  ]
+}
